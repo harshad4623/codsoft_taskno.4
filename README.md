@@ -1,6 +1,7 @@
 # codsoft_taskno.4
 
 📝 Task:
+
 Task 2 focused on building a Python-based sales prediction model. I analyzed historical sales data and developed a machine learning model to accurately forecast future sales.
 
 💡 Methodology:
